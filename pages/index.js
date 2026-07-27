@@ -28,7 +28,7 @@ const differentiators = [
 const programs = [
   { title: "NSF I-Corps", description: "Customer discovery and commercialization validation through the National Science Foundation program." },
 { title: "UConn CCEI Get Seeded Pitch Night Winner", description: "$500 Award, Connecticut Center for Entrepreneurship & Innovation — January 2026" },
-  { title: "UConn CCEI Demo Day Finalist", description: "Top 5 Finalist, Connecticut Center for Entrepreneurship & Innovation — January 2026" }  ,
+  { title: "UConn CCEI Demo Day Finalist", description: "Top 5 Finalist, Connecticut Center for Entrepreneurship & Innovation — April 2026" }  ,
   { title: "Research Advisors", description: "Dr. Diego Cerrai (Eversource Energy Center) and Dr. Yuhao Nie (solar forecasting expert)." },
 ];
 
