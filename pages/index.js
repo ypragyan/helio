@@ -27,8 +27,8 @@ const differentiators = [
 
 const programs = [
   { title: "NSF I-Corps", description: "Customer discovery and commercialization validation through the National Science Foundation program." },
-  { title: "Wolfram Technology Conference, 2024", description: "Presented Helio's forecasting approach to the Wolfram research community." },
-  { title: "UConn CCEI Get Seeded Pitch Night", description: "$500 award, Connecticut Center for Entrepreneurship & Innovation — January 2026." },
+{ title: "UConn CCEI Get Seeded Pitch Night Winner", description: "$500 Award, Connecticut Center for Entrepreneurship & Innovation — January 2026" },
+  { title: "UConn CCEI Demo Day Finalist", description: "Top 5 Finalist, Connecticut Center for Entrepreneurship & Innovation — January 2026" }  ,
   { title: "Research Advisors", description: "Dr. Diego Cerrai (Eversource Energy Center) and Dr. Yuhao Nie (solar forecasting expert)." },
 ];
 
